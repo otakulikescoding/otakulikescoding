@@ -39,5 +39,8 @@
   <a>
     <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=kotlin"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/C++-gray?style=for-the-badge&logo=cplusplus&logoColor=%C6%B0hite"/>
+  </a>
 <!-- <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=algolia" -->
 </div>
