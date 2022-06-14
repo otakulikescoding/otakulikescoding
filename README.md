@@ -28,7 +28,5 @@
   <a href="https://steamcommunity.com/profiles/76561199213454484/">
     <img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCRgUlpqUC72yH0aE3HgrD8Q/featured">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+
 </div>
