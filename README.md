@@ -4,7 +4,7 @@
 
 
 <div id="badges" align="center">
-  ---
+  
   <a href="https://www.facebook.com/profile.php?id=100034407557199">
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
   </a>
@@ -31,10 +31,10 @@
   </a>
 
 </div>
----
+
 <div id="badges" align="center">
 <h2 align="center">Most used languages</h2>
-  ---
+  
   <a>
     <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=blue"/>
   </a>
@@ -50,3 +50,7 @@
   
 <!-- <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=algolia" -->
 </div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
