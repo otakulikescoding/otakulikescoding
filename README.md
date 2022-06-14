@@ -3,16 +3,12 @@
 </div>
 
 
-
-
-
-
 ---
 
 ### 💻: Languages :
-<div >
+<div>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="40" height="40"/ >
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-plain-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
   
@@ -25,7 +21,7 @@
 
 ---
 ### 🧰: Tools :
-<div align="center">
+<div>
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   
