@@ -55,18 +55,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
- <a>
-    <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=blue"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=python">
-  </a>
-   <a>
-    <img src="https://img.shields.io/badge/Java-darkred?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original-wordmark.svg" title="Java" alt="Kotlin" width="80" height="80"/>&nbsp;
 
   
 <div>
