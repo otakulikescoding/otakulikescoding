@@ -10,9 +10,9 @@
 ---
 
 ### 💻: Languages :
-<div >
+<div align="center">
   
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="40" height="40"/ align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="40" height="40"/ >
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-plain-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
   
@@ -26,13 +26,14 @@
 ---
 ### 🧰: Tools :
 <div>
+<div align="center">
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
 
 <div>
-  
+<div>
 ---
 ### ⌨️: IDE :
 <div>
