@@ -19,11 +19,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/profile.php?id=100034407557199">
-    <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
+  <a href="https://trello.com/voquangvu09112006/boards">
+    <img src="https://img.shields.io/badge/Trello-darkblue?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge"/>
   </a>
-  <a href="https://github.com/wjbulikescoding">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  <a href="https://steamcommunity.com/profiles/76561199213454484/">
+    <img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
   <a href="https://www.instagram.com/kayle_911/">
     <img src="https://img.shields.io/badge/Instagram-rainbow?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
