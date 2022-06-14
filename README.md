@@ -7,7 +7,7 @@
 
 ### 💻: Languages :
 <div>
-  
+  <div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-plain-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>
   
 <div>
-
+<div>
 ---
 ### 🧰: Tools :
 <div>
