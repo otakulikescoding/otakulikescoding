@@ -10,7 +10,7 @@
 ---
 
 ### 💻: Languages :
-<div align="center">
+<div >
   
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="40" height="40"/ >
   
