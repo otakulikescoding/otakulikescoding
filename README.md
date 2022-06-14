@@ -8,4 +8,11 @@ I'm wjbulikescoding
 
 </div>
 <br>
+
+<h2 align="center">📊 Most Used Programming Languages 📊</h2>
+<br>
+<div align="center">
 <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=algolia"/>
+
+</div>
+<br>
