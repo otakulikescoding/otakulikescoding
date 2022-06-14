@@ -25,8 +25,8 @@
   <a href="https://steamcommunity.com/profiles/76561199213454484/">
     <img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
-  <a href="https://www.instagram.com/kayle_911/">
-    <img src="https://img.shields.io/badge/Instagram-rainbow?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://open.spotify.com/user/317kafuqbev46sq43z2u3zjjbpym?si=12b3f867de3a4744">
+    <img src="https://img.shields.io/badge/Spotify-rgb=1321890?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCRgUlpqUC72yH0aE3HgrD8Q/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
