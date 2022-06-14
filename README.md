@@ -79,13 +79,12 @@
 ### ⌨️: IDE :
 <div>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" title="Java" alt="Kotlin" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" title="Sublime text" alt="Sublime text" width="40" height="40"/>
   
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" title="VS" alt="VS" width="40" height="40"/>
   
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/notepadd-.svg" title="Np++" alt="Np++" width="40" height="40"/>
   
 <div>
