@@ -79,7 +79,7 @@
 ### ⌨️: IDE :
 <div>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original-wordmark.svg" title="Java" alt="Kotlin" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" title="Java" alt="Kotlin" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   
