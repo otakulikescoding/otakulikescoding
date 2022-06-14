@@ -33,18 +33,18 @@
 
 <div id="badges" align="center">
 <h2 align="center">Most used languages</h2>
-  <a>
+  
     <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=blue"/>
-  </a>
-  <a>
+  
+  
     <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=python">
-  </a>
-   <a>
+  
+   
     <img src="https://img.shields.io/badge/Java-darkred?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  <a>
+  
+  
     <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=kotlin"/>
-  </a>
+  
   
 <!-- <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=algolia" -->
 </div>
