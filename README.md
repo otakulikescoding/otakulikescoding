@@ -54,7 +54,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
+<div>
  <a>
     <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=blue"/>
   </a>
@@ -67,3 +67,4 @@
   <a>
     <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=kotlin"/>
   </a>
+<div>
