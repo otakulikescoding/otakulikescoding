@@ -25,7 +25,7 @@
 
 ---
 ### 🧰: Tools :
-<div>
+<div align="center">
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   
