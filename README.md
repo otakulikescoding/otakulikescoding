@@ -30,3 +30,11 @@
   </a>
 
 </div>
+
+<div id="badges" align="center">
+<h2 align="center">Most used languages</h2>
+   <a>
+    <img src="https://img.shields.io/badge/Java-darkred?style=for-the-badge&logo=java&logoColor=white" alt="Steam Badge"/>
+  </a>
+<img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=algolia"
+</div>
