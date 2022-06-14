@@ -64,7 +64,7 @@
    <a>
     <img src="https://img.shields.io/badge/Java-darkred?style=for-the-badge&logo=java&logoColor=white">
   </a>
-  <a>
+  
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg>
-  </a>
+  
 <div>
